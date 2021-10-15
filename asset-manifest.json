@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://anandpandey0.github.io/csb-0c7zu/static/css/main.0eed130f.chunk.css",
+    "main.js": "https://anandpandey0.github.io/csb-0c7zu/static/js/main.5f20d1ac.chunk.js",
+    "main.js.map": "https://anandpandey0.github.io/csb-0c7zu/static/js/main.5f20d1ac.chunk.js.map",
+    "runtime-main.js": "https://anandpandey0.github.io/csb-0c7zu/static/js/runtime-main.ad978a79.js",
+    "runtime-main.js.map": "https://anandpandey0.github.io/csb-0c7zu/static/js/runtime-main.ad978a79.js.map",
+    "static/js/2.32df8bcc.chunk.js": "https://anandpandey0.github.io/csb-0c7zu/static/js/2.32df8bcc.chunk.js",
+    "static/js/2.32df8bcc.chunk.js.map": "https://anandpandey0.github.io/csb-0c7zu/static/js/2.32df8bcc.chunk.js.map",
+    "index.html": "https://anandpandey0.github.io/csb-0c7zu/index.html",
+    "precache-manifest.2a04875b771da1088b323c1f0aa438b8.js": "https://anandpandey0.github.io/csb-0c7zu/precache-manifest.2a04875b771da1088b323c1f0aa438b8.js",
+    "service-worker.js": "https://anandpandey0.github.io/csb-0c7zu/service-worker.js",
+    "static/css/main.0eed130f.chunk.css.map": "https://anandpandey0.github.io/csb-0c7zu/static/css/main.0eed130f.chunk.css.map",
+    "static/js/2.32df8bcc.chunk.js.LICENSE.txt": "https://anandpandey0.github.io/csb-0c7zu/static/js/2.32df8bcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad978a79.js",
+    "static/js/2.32df8bcc.chunk.js",
+    "static/css/main.0eed130f.chunk.css",
+    "static/js/main.5f20d1ac.chunk.js"
+  ]
+}
